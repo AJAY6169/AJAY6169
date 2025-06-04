@@ -79,15 +79,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" class="hover-scale">
 </p>
 
-<style>
-  .connect-buttons a, .tech-stack img {
-    transition: transform 0.3s ease;
-  }
-  .connect-buttons a:hover, .tech-stack img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 ---
 
 ## 📊 GitHub Stats
@@ -102,18 +93,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAY6169&langs_count=8&layout=compact&theme=dracula\" alt="Top Languages" class="stats-img">
 </p>
 
-<style>
-  .stats-img {
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.3s ease;
-  }
-  .stats-img:hover {
-    transform: translateY(-5px);
-  }
-</style>
 
----
+-------
 
 ## 🚀 Let's Build Something Amazing!
 
@@ -122,7 +103,7 @@
     <td width="50%" valign="top">
       <h2>💬 Collaborate with Me</h2>
       <p>Got a cool project idea or need help with web dev or ML? Let's make it happen!</p>
-      <p>Contact me at <a href="mailto:ajaydeepu2223@gmail.com">ajaydeepu2223@gmail.com</a> or on <a href="https://www.linkedin.com/in/ajay-kumar-66455734a/">LinkedIn</a>.</p>
+      <p>Contact me at <a href="mailto:ajaydeepu2223@gmail.com">ajaydeepu2223@gmail.com</a> or on <a href="https://www.linkedin.com/in/ajay-kumar-66455734a/">LinkedIn</a> or on on <a href=https://sai-ajay-kumar-portfolio.netlify.app/>My Portfolio</a></p>
     </td>
     <td width="50%" valign="top">
       <h2>📣 Feedback Welcome</h2>
