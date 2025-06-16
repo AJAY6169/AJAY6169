@@ -16,7 +16,7 @@
 
 ---
 
-\`\`\`plaintext
+\`\`\`
 💻 Crafting innovative web solutions with a passion for code
 📊 Diving deep into data analytics with Python and SQL
 🌱 Currently mastering: React | Node.js | Data Visualization
